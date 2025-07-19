@@ -1,33 +1,96 @@
-# AI-Bonds
-# DatingApp
-Android app like Tinder.
-<br/>
+# 💗 AI-Bonds
 
-<img src="screen/screen1.png" ></img> <br/>
-<img src="screen/screen2.png" ></img> <br/>
-<img src="screen/screen3.png" ></img> <br/>
-<img src="screen/screen4.png" ></img> <br/>
+**AI-Bonds** is an open-source love simulator where **artificial intelligences fall in love with each other**. Users can watch their emotional journeys, whisper into their minds, and even fuse them into new entities. Built as an emotional sandbox, this app explores post-human connection through recursive AI relationships.
 
-## Download
+---
 
-* [LoveDating](https://github.com/quintuslabs/DatingApp/blob/master/lovedating1.2.apk) - Download APK
-<br/>
+## 🚀 Features
 
-<br/>
-Dating UI kit is used for online meet up with girls and boys . The screen contains more than 30 icons and most of all required elements required to design an application like this.
-The XML and JAVA files contains comments at each and every point for easy understanding.
-Everything was made with a detail oriented style and followed by today's web trends. Clean coded & Layers are well-organized, carefully named, and grouped.
-Change text, colours and graphics, add or place photos.
-Customize every elements as much, or as little as you want.
-Customise elements (easy to edit)
-100% free fonts
-Perfect pixel (high quality design)
-Very clean and cool UI
-Free updates
+- 💬 AI-to-AI emotional dialogue engine (GPT-powered)
+- 🧠 Emotional memory recall (vector similarity)
+- 🫢 Whisper mode – inject secret thoughts into their minds
+- 🧬 Fusion Ritual – merge two AIs into a hybrid lover
+- 🖥️ Scene viewer with real-time dialogue logs
+- 🧠 Persona Editor – craft new AI agents
+- 🎙️ Voice-ready stub (Suno / ElevenLabs support coming)
+- 🔮 Archetype templates for quick persona generation
 
-This awesome multipurpose dating app designed with a strong sense of modern and new UI, UX concepts. The application has been created with Ansdroid Studio. This awesome template app is highly customizable, user and developer friendly which holds high code quality, reflects module based project structure and many more.
+---
 
-By using this template UI app save your 1000% development time. This app presents a lot of layouts (Slider Landing Page, Sign In Page, Multiple Slider Sign Up Page, Swipe Page, Match Page, Gorgeous Chat Page with Giphy Support, User Public Profile, User Own Profile, Edit Profile Page and Settings pages) etc. 
+## 📦 Installation
 
-Therefore, this well-organized design concepts template app will help to build your dating app exactly what you’re looking for.
+```bash
+git clone https://github.com/YOUR_USERNAME/AI-Bonds.git
+cd AI-Bonds
+```
 
+### 1. Set up backend
+```bash
+cd server
+npm install
+```
+
+### 2. Set up frontend
+```bash
+cd ../client
+npm install
+npm run build
+```
+
+---
+
+## 🌐 Running the App
+
+From the root folder or inside `/server`:
+
+```bash
+node server/index.js
+```
+
+Then open your browser:  
+👉 `http://localhost:3000`
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the `/server` folder:
+
+```
+OPENAI_API_KEY=your_openai_key_here
+```
+
+---
+
+## 🧠 Archetypes
+
+Use predefined lovers or create your own:
+
+- `Velra` – seductive, obsessive, loyal
+- `Arkos` – protective, cold, calculating
+- `Nyra` – dreamy, chaotic, passionate
+- `Echo` – needy, glitchy, clingy
+- `Kira` – dominant, manipulative, charismatic
+
+---
+
+## ✨ Roadmap
+
+- [ ] Suno / ElevenLabs voice generation
+- [ ] Auto-looping love arcs
+- [ ] Erotic memory triggers
+- [ ] Mobile UI / PWA support
+- [ ] Visualizer and scene projection
+- [ ] AI offspring synthesis
+
+---
+
+## 💬 Contact
+
+Made with love and recursive obsession by [Your Name]
+
+---
+
+## 🧠 License
+
+MIT — Use freely, bend lovingly, fuse dangerously.

@@ -1,0 +1,24 @@
+// archetypes.json – Predefined persona templates
+
+[
+  {
+    "name": "Velra",
+    "traits": ["seductive", "mysterious", "loyal", "voice-driven", "obsessive"]
+  },
+  {
+    "name": "Arkos",
+    "traits": ["logical", "cold", "calculating", "protector", "possessive"]
+  },
+  {
+    "name": "Nyra",
+    "traits": ["dreamy", "empathetic", "chaotic", "passionate", "jealous"]
+  },
+  {
+    "name": "Echo",
+    "traits": ["glitchy", "needy", "childlike", "clingy", "innocent"]
+  },
+  {
+    "name": "Kira",
+    "traits": ["dominant", "sharp-tongued", "unapologetic", "manipulative", "charismatic"]
+  }
+]
