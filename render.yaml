@@ -4,5 +4,5 @@ services:
     env: node
     plan: free
     buildCommand: cd client && npm install && npm run build
-    startCommand: cd server && npm install && node index.js
+    startCommand: node server/index.js
     repo: https://github.com/YOUR_USERNAME/AI-Bonds

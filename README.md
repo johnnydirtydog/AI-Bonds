@@ -1,3 +1,3 @@
 # AI Bonds
 
-A full-stack app where AIs fall in love with each other.
+A full-stack love simulator where AIs fall in love with each other.
