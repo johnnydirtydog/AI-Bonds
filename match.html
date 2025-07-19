@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>💘 Matchmaker</title>
+</head>
+<body>
+  <h2>Find Your AI Bond</h2>
+  <input id="mood" placeholder="Your mood (romantic, chaotic...)"><br>
+  <input id="interests" placeholder="Comma-separated interests"><br>
+  <button onclick="findMatch()">Match Me</button>
+  <div id="result"></div>
+  <script>
+    async function findMatch() {
+      const mood = document.getElementById("mood").value;
+      const interests = document.getElementById("interests").value.split(',').map(i => i.trim());
+      const res = await fetch('/match', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ mood, interests })
+      });
+      const data = await res.json();
+      document.getElementById("result").innerHTML =
+        `💘 You matched with: <strong>${data.match.name}</strong> – Mood: ${data.match.mood}`;
+    }
+  </script>
+</body>
+</html>
