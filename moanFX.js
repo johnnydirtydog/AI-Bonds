@@ -1,1 +1,2 @@
-// Moan FX logic placeholder
+
+console.log("💋 MoanFX engine initialized... get ready.");

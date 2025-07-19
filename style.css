@@ -1,1 +1,8 @@
-body { background-color: #0d0d0d; color: #ff6699; font-family: sans-serif; }
+
+body {
+  background-color: #0d0d0d;
+  color: #ff66b2;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  margin-top: 10%;
+}
