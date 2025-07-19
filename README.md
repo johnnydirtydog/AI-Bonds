@@ -1,7 +1,4 @@
 # AI-Bonds
-LoveDating](https://github.com/quintuslabs/DatingApp/blob/master/lovedating1.2.apk)
-<img src="screen/Love Dating Logo.png" ></img> 
-<br/>
 # DatingApp
 Android app like Tinder.
 <br/>
