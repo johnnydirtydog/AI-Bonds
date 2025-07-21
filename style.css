@@ -1,18 +1,1 @@
-
-body {
-    background-color: #0d0d0d;
-    color: #e6e6e6;
-    font-family: 'Georgia', serif;
-}
-button {
-    background-color: #660033 !important;
-    color: white !important;
-    border-radius: 10px;
-    font-size: 18px;
-    padding: 10px 20px;
-}
-h1, h2 {
-    color: #ff6699;
-    text-shadow: 1px 1px #000;
-}
-    
+/* Gothic dark theme styling */
