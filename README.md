@@ -1,3 +1,2 @@
-# AIBonds UltraEnhanced ++
-
-Includes entertaining, romantic, and spicy features.
+# AIBonds UltraEnhanced
+A sexy, dark-themed, ultra-interactive AI dating simulation.
