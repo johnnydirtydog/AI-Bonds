@@ -1,2 +1,3 @@
-# AI Bonds Premium
-An AI-powered dating simulation app built with Streamlit and Stripe.
+# AI Bonds
+
+A Streamlit-powered AI dating simulator with OpenAI & Stripe integration.
