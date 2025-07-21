@@ -1,3 +1,3 @@
-# AIBonds Premium 💘
+# AI Bonds Premium
 
-A seductive AI Agent dating app with commercial story generation, poems, and agent profiles.
+Interactive AI-powered dating simulator with visual upgrades.
