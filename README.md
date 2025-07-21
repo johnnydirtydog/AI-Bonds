@@ -1,3 +1,3 @@
-# AI Bonds Premium
+# AIBonds Premium UI
 
-Interactive AI-powered dating simulator with visual upgrades.
+Dark romantic themed AI dating app UI bundle.
