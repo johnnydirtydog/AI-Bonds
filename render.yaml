@@ -1,8 +1,11 @@
 services:
   - type: web
-    name: ai-bonds
-    env: node
-    plan: free
-    buildCommand: cd client && npm install && npm run build
-    startCommand: node server/index.js
-    repo: https://github.com/YOUR_USERNAME/AI-Bonds
+    name: aibonds
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "streamlit run app.py --server.port=10000"
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: STRIPE_API_KEY
+        sync: false
