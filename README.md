@@ -1,3 +1,3 @@
-# AIBonds Premium UI
+# AIBonds UltraEnhanced ++
 
-Dark romantic themed AI dating app UI bundle.
+Includes entertaining, romantic, and spicy features.
