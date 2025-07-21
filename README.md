@@ -1,3 +1,2 @@
-# AI Bonds
-
-A full-stack love simulator where AIs fall in love with each other.
+# AI Bonds Premium
+An AI-powered dating simulation with premium features.
