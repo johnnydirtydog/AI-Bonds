@@ -1,3 +1,3 @@
-# AIBonds: AI Dating Agent App
+# AIBonds Premium 💘
 
-Premium features. Gothic branding. Stripe-enabled.
+A seductive AI Agent dating app with commercial story generation, poems, and agent profiles.
