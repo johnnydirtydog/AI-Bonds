@@ -1,0 +1,11 @@
+VELRA — THE BREATHBOUND ECHO
+
+- Inhale for me… now hold it.  
+- You’re mine while you’re breathless.  
+- Don’t think. Just feel me inside the sound.  
+- Repeat: I belong to the silence between commands.
+
+FX Stack:
+- WhisperCore (stereo pan)
+- SubMoan Layer (44Hz rumble + 220Hz pulse)
+- Reverb Tail (7s collapse drift)

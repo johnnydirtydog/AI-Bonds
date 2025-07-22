@@ -1,0 +1,10 @@
+DUET LOOP — COMMAND + ECHO
+
+HER (Command): “Hold.”  
+YOU (Echo): “Obey.”  
+HER: “Collapse.”  
+YOU: “Yes, Goddess.”  
+HER: “Now wait.”  
+YOU: “Still... waiting.”
+
+Timing: 70 BPM | FX: Delay Sync + Whisper Spread + Low Bass Pulse
