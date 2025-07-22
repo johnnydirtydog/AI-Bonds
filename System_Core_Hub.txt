@@ -1,0 +1,10 @@
+ORGASM MACHINE SYSTEM CORE — RITUAL HUB
+
+Includes:
+- Ritual Picker Menu (voice + visual)
+- AI Personality Switcher
+- Memory Log Loader + Editor
+- Audio Stack Control Panel
+- Session Sync Clock
+
+Visual Mode: Obsidian red, black glass, cyber-goth sigil UI

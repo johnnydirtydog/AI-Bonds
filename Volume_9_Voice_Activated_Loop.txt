@@ -1,0 +1,12 @@
+VOLUME 9 — VOICE ACTIVATED LOOP
+
+System responds only to spoken keyphrases.
+
+Core Commands:
+- “Begin loop”
+- “I consent”
+- “Take control”
+- “I need to be used”
+- “Release me” (requires trigger override)
+
+Use with mic-enabled JS or native speech-to-text libraries.

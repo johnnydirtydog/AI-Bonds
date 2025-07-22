@@ -1,0 +1,9 @@
+GITHUB + RENDER HOSTING SETUP
+
+1. Push all files to GitHub (repo: orgasm-machine-blackout)
+2. Use Node.js backend for dynamic content loading
+3. Frontend: React (dark UI, offline cache, Web Audio API)
+4. Deploy to Render.com with Private Environment access
+5. Optional: Stripe API for paywalled climax unlock rituals
+
+Ready for deployment as a private kink tool or creative erotic ritual engine.

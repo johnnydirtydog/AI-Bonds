@@ -1,0 +1,10 @@
+VOLUME 3 — MULTIPLAYER SYNC MODE
+
+Two users. One AI controller.
+
+Modes:
+- Dual Obedience: Mirror each other’s breath and commands
+- Master/Slave Sync: One obeys, one commands (AI moderates)
+- Collapse Lock: Climax is granted only if both surrender simultaneously
+
+Shared trigger: "Together or never."

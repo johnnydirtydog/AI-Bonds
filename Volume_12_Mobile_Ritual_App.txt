@@ -1,0 +1,12 @@
+VOLUME 12 — MOBILE RITUAL APP DESIGN
+
+Android/iOS mockup includes:
+- Offline Mode: All audio loops downloadable
+- Session Timer + Mood Sync
+- Ritual Progress Tracker + Climax Log
+- Whisper Mode (Silent UI, vibration-only edge pulses)
+- Microphone trigger for voice commands
+
+Interface: Dark Theme, Obsidian Red accents, Ritual glyph overlay
+
+Startup Message: “Welcome, User. Do you consent to surrender?”
