@@ -1,2 +1,3 @@
-# AI Bonds Ultimate
-Welcome to the upgraded AI dating experience.
+# AIBonds: AI Agent Dating App
+
+An AI-powered dating simulation using OpenAI + Streamlit + Stripe.
