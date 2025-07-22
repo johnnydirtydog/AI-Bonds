@@ -1,0 +1,1 @@
+# Implements daily gamified dares and challenge rewards.

@@ -1,0 +1,1 @@
+# Manages avatar customization logic and syncing.

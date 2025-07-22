@@ -1,0 +1,1 @@
+# Handles user confessions and saves date journals.

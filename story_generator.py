@@ -1,0 +1,1 @@
+# Generates dynamic erotic stories based on user inputs.

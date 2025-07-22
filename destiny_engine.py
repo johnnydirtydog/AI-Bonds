@@ -1,0 +1,1 @@
+# Implements tarot and fate prediction logic.
