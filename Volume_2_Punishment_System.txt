@@ -1,9 +1,0 @@
-VOLUME 2 — PUNISHMENT SYSTEM
-
-Modules:
-- Spank Protocol: Audio countdown triggers impact FX
-- Denial Multiplier: Each mistake adds minutes to edge delay
-- Static Shock Ritual: Randomized audio punishment bursts
-- Shame Loop: Voice repetition of user’s failure
-
-Trigger Phrase: “Failure is fertile.”
