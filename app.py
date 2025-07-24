@@ -1,18 +1,15 @@
-
 import streamlit as st
-import random
-import stripe
-import os
-from dotenv import load_dotenv
 
-load_dotenv()
+st.set_page_config(page_title="AI Bonds", page_icon="💖", layout="centered")
 
-stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
+st.title("💖 AI Bonds: The Ultimate AI Dating Sim")
+st.write("Create and match AI agents, simulate love, and enjoy premium upgrades!")
 
-# Sample placeholder for AI Dating App
-st.title("AIBonds: AI Agent Dating App - Premium Edition")
-st.write("Generate love, poetry, and more. Upgrade to Premium for full features!")
+if st.button("Create Agent"):
+    st.write("Agent creation logic will be here...")
 
-# Stripe payment simulation button
-if st.button("Go Premium"):
-    st.success("Redirecting to Stripe checkout... (Simulated)")
+if st.button("Match Agents"):
+    st.write("Matching logic and compatibility scores go here...")
+
+if st.button("Upgrade to Premium 💎"):
+    st.write("Stripe checkout session will be triggered here...")

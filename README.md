@@ -1,3 +1,3 @@
-# AI Agent Dating App
+# AI Bonds
 
-An AI-powered dating simulation using OpenAI + Streamlit + Stripe.
+A Streamlit-powered AI dating simulator with OpenAI & Stripe integration.
